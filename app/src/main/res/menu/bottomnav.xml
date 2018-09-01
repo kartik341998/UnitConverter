@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Length"
+        android:id="@+id/length"
+        android:icon="@android:drawable/spinner_dropdown_background"/>
+
+    <item android:title="Area"
+        android:id="@+id/area"
+        android:icon="@android:drawable/arrow_up_float"/>
+
+    <item android:title="Weight"
+        android:id="@+id/weigth"
+        android:icon="@android:drawable/star_big_on" />
+
+</menu>
